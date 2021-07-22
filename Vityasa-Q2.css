@@ -1,0 +1,44 @@
+.head-span {
+  color: purple;
+}
+
+h2 {
+  padding: 10px;
+  font-size: 35px;
+  text-align: center;
+  width: 500px;
+}
+.head-div {
+  width: 400px;
+  margin: auto;
+}
+
+.border-div {
+  border-bottom: 2px solid rgba(128, 0, 128, 0.272);
+  position: absolute;
+  left: 60%;
+  width: 180px;
+  height: 60px;
+}
+
+.logos,
+.colu-2 {
+  width: 60px;
+  height: 60px;
+  padding: 0;
+  /* background-color: pink; */
+  border: 0;
+  border-radius: 10px;
+  margin: 20px;
+  box-shadow: 0 10px 15px rgba(128, 0, 128, 0.497);
+}
+
+.row {
+  margin: 10px 200px;
+  /* margin-top: 10px; */
+}
+.inv {
+  background-color: transparent;
+  border: 0;
+  box-shadow: 0 0 0 transparent;
+}

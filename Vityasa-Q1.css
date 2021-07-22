@@ -1,0 +1,29 @@
+body {
+  padding: 20px;
+}
+.col {
+  width: 200px;
+  border: 5px solid black;
+  margin: 8px 15px;
+  padding: 70px 0;
+  font-size: 30px;
+  font-weight: 600;
+  color: white;
+  text-align: center;
+}
+
+.sq1 {
+  background-color: #264653;
+}
+
+.sq2 {
+  background-color: #f4a261;
+}
+
+.sq3 {
+  background-color: #e76f51;
+}
+
+.sq4 {
+  background-color: #2a9d8f;
+}
